@@ -1,0 +1,9 @@
+c:\users\ben\documents\visual studio 2015\Projects\linq_exo9\linq_exo9\bin\Debug\linq_exo9.exe.config
+C:\Users\ben\Documents\Visual Studio 2015\Projects\linq_exo9\linq_exo9\bin\Debug\linq_exo9.exe
+C:\Users\ben\Documents\Visual Studio 2015\Projects\linq_exo9\linq_exo9\bin\Debug\linq_exo9.pdb
+C:\Users\ben\Documents\Visual Studio 2015\Projects\linq_exo9\linq_exo9\obj\Debug\linq_exo9.csprojResolveAssemblyReference.cache
+C:\Users\ben\Documents\Visual Studio 2015\Projects\linq_exo9\linq_exo9\obj\Debug\linq_exo9.Form1.resources
+C:\Users\ben\Documents\Visual Studio 2015\Projects\linq_exo9\linq_exo9\obj\Debug\linq_exo9.Properties.Resources.resources
+C:\Users\ben\Documents\Visual Studio 2015\Projects\linq_exo9\linq_exo9\obj\Debug\linq_exo9.csproj.GenerateResource.Cache
+C:\Users\ben\Documents\Visual Studio 2015\Projects\linq_exo9\linq_exo9\obj\Debug\linq_exo9.exe
+C:\Users\ben\Documents\Visual Studio 2015\Projects\linq_exo9\linq_exo9\obj\Debug\linq_exo9.pdb
